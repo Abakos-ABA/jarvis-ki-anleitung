@@ -14,4 +14,4 @@ Dienst-API: `docs/jarvis-kanal-code-gate.md` im Jarvis-Repo.
 Die alte, komplett offene Fassung (vor 15.10.2026 direkt unter `/` erreichbar) liegt zur Referenz noch
 unter `/komplett/` - nicht mehr verlinkt, bewusst nicht geloescht (rexemre-Vorgabe).
 
-Kein Verkauf, keine Nutzerkonten, keine Formulare - nur eine statische Seite + ein kleiner Freischalt-Dienst.
+Die Anleitung bleibt gratis. Seit 08.11.2026 liegt daneben unter /angebot/ das bezahlte Angebot (eigenen Jarvis einrichten lassen, Einstieg kostenloser Machbarkeits-Check); das Formular sendet an denselben Dienst (/jarvis-code/anfrage). Keine Nutzerkonten.
